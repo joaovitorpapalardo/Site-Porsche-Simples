@@ -1,2 +1,4 @@
 # Site-Porsche-Simples
 Um site simples sobre a Porsche 911, utilizando HTML5 e CSS.
+Esse site foi feito com base em um curso na Udemy chamado Desenvolvimento Web Completo, pelo instrutor Jorge Sant Ana. Esse site tem o intuito de aplicar e exercitar algumas funcionalidades aprendidas no curso.
+Foram utilizadas apenas duas imagens no site, uma na aba principal (https://www.pngmart.com/files/22/Porsche-911-GT3-RS-PNG-Image.png) e a outra na aba do fabricante (https://logos-world.net/wp-content/uploads/2021/04/Porsche-Logo.png). Vale ressaltar que esse site foi apenas criado com o objetivo de colocar alguns conhecimentos de HTML E CSS em pratica.
