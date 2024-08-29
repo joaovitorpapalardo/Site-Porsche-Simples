@@ -1,0 +1,39 @@
+body {
+    background: rgb(182, 182, 255);
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal{
+    width: 900px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#menu{
+    background: rgb(182, 182, 255);
+    padding: 19px;
+}
+
+#conteudo{
+    background: rgb(172, 172, 241);
+    padding: 10px;
+}
+#rodape{
+    text-align: center;
+}
+a {
+    color:rgb(65, 23, 182);
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+}
+h1{
+    color: rgb(6, 0, 65);
+    font-size: 1.5em;
+}
+
+.centralizar{
+    text-align: center;
+}
